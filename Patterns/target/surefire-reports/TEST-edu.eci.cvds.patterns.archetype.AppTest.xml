@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\santiago.rodriguez-s\AppData\Local\Temp\surefire1265071726421866039\surefirebooter-20240203091931372_3.jar C:\Users\santiago.rodriguez-s\AppData\Local\Temp\surefire1265071726421866039 2024-02-03T09-19-31_158-jvmRun1 surefire-20240203091931372_1tmp surefire_0-20240203091931372_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\santiago.rodriguez-s\AppData\Local\Temp\surefire5011887731674570199\surefirebooter-20240205095853558_3.jar C:\Users\santiago.rodriguez-s\AppData\Local\Temp\surefire5011887731674570199 2024-02-05T09-58-53_382-jvmRun1 surefire-20240205095853558_1tmp surefire_0-20240205095853558_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\santiago.rodriguez-s\Downloads\LAB02-CVDS\Patterns\target\test-classes;C:\Users\santiago.rodriguez-s\Downloads\LAB02-CVDS\Patterns\target\classes;C:\Users\santiago.rodriguez-s\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\santiago.rodriguez-s\AppData\Local\Temp\surefire1265071726421866039\surefirebooter-20240203091931372_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\santiago.rodriguez-s\AppData\Local\Temp\surefire5011887731674570199\surefirebooter-20240205095853558_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.9+11-LTS-201"/>

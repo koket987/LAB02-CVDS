@@ -17,7 +17,7 @@ public class ShapeMain {
                             shape.getNumberOfEdges()
                     )
             );
-        } catch (IllegalArgumentException ex) {
+        } catch (Exception ex) {
             System.err.println(
                     "Parameter '" + args[0] + "' is not a valid RegularShapeType"
             );
